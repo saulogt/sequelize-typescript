@@ -1,0 +1,1 @@
+{"version":3,"file":"default.js","sourceRoot":"","sources":["../../../../src/model/column/column-options/default.ts"],"names":[],"mappings":";;AAAA,4DAAyD;AAEzD;;GAEG;AACH,SAAgB,OAAO,CAAC,KAAU;IAEhC,OAAO,CAAC,MAAW,EAAE,YAAoB,EAAE,EAAE;QAE3C,uCAAmB,CAAC,MAAM,EAAE,YAAY,EAAE;YACxC,YAAY,EAAE,KAAK;SACpB,CAAC,CAAC;IACL,CAAC,CAAC;AACJ,CAAC;AARD,0BAQC"}

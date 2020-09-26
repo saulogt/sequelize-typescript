@@ -1,0 +1,1 @@
+{"version":3,"file":"foreign-key.js","sourceRoot":"","sources":["../../../src/associations/foreign-key/foreign-key.ts"],"names":[],"mappings":";;AAAA,+DAAoD;AAGpD,SAAgB,UAAU,CAAC,kBAAoC;IAC7D,OAAO,CAAC,MAAW,EAAE,YAAoB,EAAE,EAAE;QAC3C,mCAAa,CAAC,MAAM,EAAE,kBAAkB,EAAE,YAAY,CAAC,CAAC;IAC1D,CAAC,CAAC;AACJ,CAAC;AAJD,gCAIC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"auto-increment.js","sourceRoot":"","sources":["../../../../src/model/column/primary-key/auto-increment.ts"],"names":[],"mappings":";;AAAA,4DAAyD;AAEzD;;GAEG;AACH,SAAgB,aAAa,CAAC,MAAW,EAAE,YAAoB;IAE7D,uCAAmB,CAAC,MAAM,EAAE,YAAY,EAAE;QACxC,aAAa,EAAE,IAAI;KACpB,CAAC,CAAC;AACL,CAAC;AALD,sCAKC"}
